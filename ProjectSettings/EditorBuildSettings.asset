@@ -26,7 +26,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Before advanced Setup.unity
     guid: 08c7d1bdbc92def48a76ce2d6b55c932
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PickUp working.unity
     guid: f1709455f07695048aa69717f45c0314
+  - enabled: 1
+    path: Assets/Scenes/Other new furniture.unity
+    guid: 87b1aece66a0c614d81d0fd0d6e21def
   m_configObjects: {}
