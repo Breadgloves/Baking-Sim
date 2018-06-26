@@ -35,7 +35,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/New Hitboxes.unity
     guid: 11e3b5298ecbcf84da53ec24cc9ead40
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Fridge opening no triggar.unity
     guid: 4912b4a09a8eff848b4e9c37055edba2
+  - enabled: 1
+    path: Assets/Scenes/Interaction testing.unity
+    guid: 719d942d876f7054d846c615b3efa089
   m_configObjects: {}
