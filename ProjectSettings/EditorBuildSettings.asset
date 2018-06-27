@@ -38,7 +38,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Fridge opening no triggar.unity
     guid: 4912b4a09a8eff848b4e9c37055edba2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Interaction testing.unity
     guid: 719d942d876f7054d846c615b3efa089
+  - enabled: 1
+    path: Assets/Scenes/Kitchen Done.unity
+    guid: e8ca0c545de5a6d4f959898a3d19e57d
   m_configObjects: {}
