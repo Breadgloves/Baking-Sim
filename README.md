@@ -17,7 +17,7 @@ Set the table ,
 4 Strawberries,
 Place all the ingredients in the pink mixing bowl
 
-Thank you for play our game!
+Thank you for playing our game!
 
 -Z,S,WG,S
 
